@@ -12,7 +12,7 @@ def transform_value(value):
     return 10 ** value
 
 app = Dash(__name__)
-server = app.server()
+server = app.server
 
 # Set up the layout of the dashboard
 app.layout = html.Div(
