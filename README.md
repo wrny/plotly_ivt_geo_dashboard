@@ -26,7 +26,7 @@ The dashboard can be viewed online here:
 `sudo apt update` \
 `sudo apt upgrade` \
 `sudo git clone https://github.com/wrny/plotly_ivt_geo_dashboard` \
-`cd ip_geolocation_api` \
+`cd plotly_ivt_geo_dashboard` \
 `sudo apt-get install python3.8-venv` \
 `sudo apt-get install python3-pip` \
 `sudo python3 -m venv venv` \
